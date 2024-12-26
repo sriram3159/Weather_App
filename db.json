@@ -1,0 +1,14 @@
+{
+  "posts": [
+    {
+      "name": "SRIRAM",
+      "cname": "MERN",
+      "id": 1
+    },
+    {
+      "name": "ram",
+      "cname": "sql",
+      "id": 3
+    }
+  ]
+}
